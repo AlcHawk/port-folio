@@ -7,4 +7,5 @@ import Navbar from './Navbar';
 // import Projects from './Projects';
 // import Contact from './Contact';
 
-export { Hero, Navbar, About, Tech, Experience, Projects, Contact, BallCanvas };
+export { Hero, Navbar, BallCanvas };
+// About, Tech, Experience, Projects, Contact, 
