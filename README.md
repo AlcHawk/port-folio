@@ -7,7 +7,7 @@ The portfolio is based on the template from [Shaquille Ndunda](https://github.co
 
 ## License and Attribution
 
-The code in this repository is released under the [MIT](https://github.com/AlcHawk/port-folio/blob/main/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
+The code in this repository is released under the [MIT](https://raw.githubusercontent.com/AlcHawk/port-folio/refs/heads/main/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
 
 All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
 
