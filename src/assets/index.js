@@ -8,9 +8,9 @@ import logotext from './logo/logo-text-wei.png';
 
 import weichih from './personal/Wei-Chih.png';
 
-import studydesign from './icons/studydesign.png';
-import statthink from './icons/statthink.png';
-import statprog from './icons/statprog.png';
+import studydesign from './icons/studyDesign.png';
+import statthink from './icons/statThink.png';
+import statprog from './icons/statProg.png';
 
 import github from './icons/github.png';
 import close from './icons/close.png';
