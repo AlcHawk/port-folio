@@ -4,8 +4,8 @@ import {
     Navbar,
     About,
     Tech,
+    Experience,
     // Projects,
-    // Experience,
     // Contact,
 } from './components';
 
@@ -28,7 +28,7 @@ const App = () => {
 
             {/* <Projects /> */}
 
-            {/* <div
+            <div
                 className="bg-experience bg-cover bg-center bg-no-repeat 
                     rounded-tl-[150px] rounded-br-[150px]">
                 <div
@@ -36,7 +36,7 @@ const App = () => {
                     bg-no-repeat rounded-tl-[150px] rounded-br-[130px]">
                     <Experience />
                 </div>
-            </div> */}
+            </div>
             {/* <div className="relative z-0">
                 <Contact />
             </div> */}

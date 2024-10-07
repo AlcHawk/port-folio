@@ -1,5 +1,6 @@
 import {
     // ==> [Company]
+    syneos,
 
     studydesign,
     statthink,
@@ -29,6 +30,10 @@ export const navLinks = [
         id: 'about',
         title: 'About',
     },
+    // {
+    //     id: 'work',
+    //     title: 'Experience',
+    // },
     {
         id: '',
         title: 'Blog',
@@ -101,6 +106,13 @@ const technologies = [
 ];
 
 const experiences = [
+    {
+        title: 'Senior Biostatistician',
+        company_name: 'Syneos Health',
+        icon: syneos,
+        iconBg: 'lightgray',
+        date: 'Feb 2022 - present',
+    },
     // {
     //     title: '',
     //     company_name: '',

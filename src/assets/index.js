@@ -36,6 +36,7 @@ import postgresql from './tech/postgresql-color.png';
 // import reactjs from './tech/reactjs.png';
 
 // ==> [Company]
+import syneos from './company/SyneosHealth.png';
 
 // ==> [Project]
 
@@ -47,6 +48,7 @@ export {
     worldmap,
     
     // ==> [Company]
+    syneos,
     
     // ==> [Icon]
     studydesign,
