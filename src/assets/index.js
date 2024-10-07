@@ -4,7 +4,7 @@ import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
 import logo from './logo/logo-WCL.png';
-import logotext from './logo/logo-text-Wei.png';
+import logotext from './logo/logo-text-wei.png';
 
 import weichih from './personal/Wei-Chih.png';
 
