@@ -2,8 +2,8 @@ import { BrowserRouter } from 'react-router-dom';
 import {
     Hero,
     Navbar,
-    // About,
-    // Tech,
+    About,
+    Tech,
     // Projects,
     // Experience,
     // Contact,
@@ -18,13 +18,13 @@ const App = () => {
                 <Hero />
             </div>
 
-            {/* <div className="bg-about bg-cover bg-center bg-no-repeat">
+            <div className="bg-about bg-cover bg-center bg-no-repeat">
                 <About />
-            </div> */}
+            </div>
 
-            {/* <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10">
+            <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10">
                 <Tech />
-            </div> */}
+            </div>
 
             {/* <Projects /> */}
 

@@ -22,8 +22,16 @@ import {
 
 export const navLinks = [
     {
+        id: '',
+        title: 'Main',
+    },
+    {
         id: 'about',
         title: 'About',
+    },
+    {
+        id: '',
+        title: 'Blog',
     },
     // {
     //     id: 'projects',
