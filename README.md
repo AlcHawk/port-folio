@@ -2,9 +2,6 @@
 
 The portfolio is based on the template from [Shaquille Ndunda](https://github.com/shaqdeff/Portfolio-Template)
 
-[Demo](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/eed76a82-e59d-440b-a04c-a2dc00a508b7)
-
-
 ## License and Attribution
 
 The code in this repository is released under the [MIT](https://raw.githubusercontent.com/AlcHawk/port-folio/refs/heads/main/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
@@ -20,60 +17,7 @@ All projects and experiences included in this portfolio are the result of my own
 
 ## Getting Started
 
-To get started with this portfolio, follow these simple steps:
-
-### Prerequisites
-
-Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
-
-### Setup
-
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- Download the ZIP file or run the following [git](https://git-scm.com/) command to clone the files to your machine:
-
-```
-git clone https://github.com/AlcHawk/port-folio.git
-```
-
-- Once the files are on your machine, open the **port-folio** folder in [Visual Studio Code](https://code.visualstudio.com/download).
-
-```
-cd Portfolio-Template && code .
-```
-
-## Install
-
-- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
-
-```
-npm install
-```
-
-This will install all the packages and dependencies used in the project. The project is using [Vite](https://vite.dev/) to run the local server.
-
-## Usage
-
-- Run the following command to start a local server:
-
-```
-npm run dev
-```
-
-This triggers the script dev defined in the package.json to run vite command. And then open up the project on a browser on `http://localhost:5173/`
-
-## Build
-
-- To create a production build:
-
-```
-npm run build
-```
-
-- To preview the site as it will appear once deployed:
-
-```
-npm run preview
-```
+All procedures are the same except the below publish action.
 
 ## Publish to Github Pages via Github Actions (Additional)
 - If you want to use github pages to host your personal portfolio. Please follow the following steps.
