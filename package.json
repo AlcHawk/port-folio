@@ -1,7 +1,7 @@
 {
   "name": "weichihlin",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://alchawk.github.io/port-folio",
   "type": "module",
   "scripts": {
